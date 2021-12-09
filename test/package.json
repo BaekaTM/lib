@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@baeka/private-tools": "^1.0.5",
+    "@baeka/private-tools": "^1.0.7",
     "@baeka/test": "^1.0.0"
   }
 }

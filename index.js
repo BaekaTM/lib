@@ -4,7 +4,7 @@ var randomInArray = (tbl) => {
 
 }
 
-var  firstLetterInUpperCase = (strl) => {
+var  firstLetterInUpperCase = (str) => {
 
     let tbl = str.split("");
     let up = tbl[0].toUpperCase();

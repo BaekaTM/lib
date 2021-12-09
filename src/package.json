@@ -1,6 +1,6 @@
 {
   "name": "@baeka/private-tools",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "This package is for my private use you don't need it at all.",
   "main": "index.js",
   "repository": {

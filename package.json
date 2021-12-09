@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BaekaTM/lib/issues"
   },
-  "homepage": "https://github.com/BaekaTM/lib#readme"
+  "homepage": "https://github.com/BaekaTM/lib#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

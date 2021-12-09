@@ -15,7 +15,7 @@ var  firstLetterInUpperCase = (str) => {
 
 }
 
-var randomNumber = (min, max)  => {
+var randomNumber = ([min, max])  => {
 
     return min + Math.floor(Math.random() * (max - min));
 

@@ -1,22 +1,18 @@
 {
   "name": "lib",
   "version": "1.0.0",
-  "description": "��d\u0000d\u0000d\u0000d\u0000d\u0000\r\u0000 \u0000",
+  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BaekaTM/lib.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Baeka#6495",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/BaekaTM/lib/issues"
   },
-  "homepage": "https://github.com/BaekaTM/lib#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
